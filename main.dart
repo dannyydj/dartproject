@@ -1,9 +1,3 @@
-// void main(){
-//   print("hello");
-// }
-
-// import 'dart:io';
-
 class Student {
   final String name;
   final int age;
