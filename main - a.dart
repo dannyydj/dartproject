@@ -1,4 +1,4 @@
-import 'dart:ffi';
+// import 'dart:ffi';
 
 var outsideVariable = "I am an outsider.";
 main(List<String> arguments){
